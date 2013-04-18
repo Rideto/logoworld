@@ -1,0 +1,5 @@
+INIT=ru.nsu.tsupa.logoworld.commands.Init
+MOVE=ru.nsu.tsupa.logoworld.commands.Move
+DRAW=ru.nsu.tsupa.logoworld.commands.Draw
+WARD=ru.nsu.tsupa.logoworld.commands.Ward
+TELEPORT=ru.nsu.tsupa.logoworld.commands.Teleport
